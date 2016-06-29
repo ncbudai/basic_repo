@@ -1,0 +1,9 @@
+body{
+	height: 500px;
+	width: 900px;
+	margin: 0 auto;
+	border: 2p xsolid grey;
+}
+h1{
+	color: red;
+}
